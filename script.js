@@ -10,7 +10,7 @@ async function loadPortfolio() {
     const container2 = document.getElementById('project-grid_more');
 
     try {
-        const response = await fetch('Pro_data.json');
+        const response = await fetch('pro_data.json');
         const projects = await response.json();
 
         container.innerHTML = '';
@@ -85,5 +85,6 @@ async function SkillsLoader() {
         console.error("Error loading skills:", err);
     }
 }
+
 
 SkillsLoader();
