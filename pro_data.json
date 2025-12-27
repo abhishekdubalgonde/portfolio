@@ -1,0 +1,38 @@
+[
+  {
+    "title": "SafeVision - AI Accident Detection",
+    "description": "AI-based Accident Detection System using Python and ML models",
+    "image": "./assets/safe_vision.jpg",
+    "isFeatured": true,
+    "techStack": ["Python", "TensorFlow", "Scikit-learn", "Flask", "OpenCV"],
+    "liveLink": "#",
+    "repoLink": "#"
+  },
+  {
+    "title": "Events Management Application",
+    "description": "Full-stack application for managing events and online ticket sales",
+    "image": "./assets/event_management.jpg",
+    "isFeatured": true,
+    "techStack": ["Django", "Python", "SQLite", "JavaScript", "HTML/CSS", "Bootstrap"],
+    "liveLink": "#",
+    "repoLink": "#"
+  },
+  {
+    "title": "About this project",
+    "description": "Platform connecting home care service providers with customers",
+    "image": "./assets/HomeFix.jpg",
+    "isFeatured": false,
+    "techStack": ["Django", "Python", "MySQL", "JavaScript", "HTML/CSS", "Bootstrap"],
+    "liveLink": "#",
+    "repoLink": "#"
+  },
+  {
+    "title": "IBM Watson AI Chatbot",
+    "description": "Intelligent chatbot created using IBM Watson AI services",
+    "image": "./assets/chat_boat.jpg",
+    "isFeatured": false,
+    "techStack": ["IBM Watson", "NLP", "Python", "REST API", "IBM Cloud"],
+    "liveLink": "#",
+    "repoLink": "#"
+  }
+]

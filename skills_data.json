@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Frontend",
+        "description": "Building responsive and interactive user interfaces using HTML, CSS, and JavaScript frameworks.",
+        "icon": "fa-solid fa-code",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "React",
+            "Vue.js",
+            "Bootstrap",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "name": "Backend",
+        "description": "Creating robust server-side applications and APIs using Node.js, Django, and Flask.",
+        "icon": "fa-solid fa-server",
+        "skills": [
+            "Node.js",
+            "Express.js",
+            "Django",
+            "Flask",
+            "Python"
+        ]
+    },
+    {
+        "name": "AI/ML",
+        "description": "Developing predictive models and data analysis solutions using Python and popular ML libraries.",
+        "icon": "fa-solid fa-robot",
+        "skills": [
+            "Python",
+            "TensorFlow",
+            "Scikit-learn",
+            "Keras",
+            "NLP",
+            "IBM Watson"
+        ]
+    },
+    {
+        "name": "Database",
+        "description": "Designing and managing relational and non-relational databases like MySQL, PostgreSQL, and MongoDB.",
+        "icon": "fa-solid fa-database",
+        "skills": [
+            "MySQL",
+            "SQLite",
+            "MongoDB"
+        ]
+    },
+    {
+        "name": "Tools and Cloud",
+        "description": "Deploying and managing applications on cloud platforms such as AWS and Azure.",
+        "icon": "fa-solid fa-cloud",
+        "skills": [
+            "AWS",
+            "Git/GitHub",
+            "IBM Cloud",
+            "VS Code",
+            "Postman",
+            "Figma"
+        ]
+    }
+]
